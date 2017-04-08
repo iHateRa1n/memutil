@@ -1,0 +1,2 @@
+echo $1 > .x
+/usr/local/bin/python3 memutil.py
